@@ -1,0 +1,222 @@
+index,Place_name,Address1,Reviewscount,Total_score,Latitude,Longitude,Category
+1,Panas Restaurant,"????? ????? 22, Kathmandu 44600",153,3.6,27.7011869,85.3114101,Restaurant
+2,Revolution Cafe,"???? ???, Kathmandu 44600",508,4.1,27.7037579,85.3092563,Restaurant
+3,Rosemary Kitchen and Coffee Shop,"J P Marg, Kathmandu 44600",1191,4.4,27.7118426,85.3094098,Restaurant
+4,New Sundhara Thakali Chulo And Bhanchhaghar,"St 201, Kathmandu 44600",3,5,27.6996627,85.3124104,Restaurant
+5,Third Eye Restaurant,"J.p. Rd, Kathmandu 44600",1394,4.4,27.7144278,85.3101163,Restaurant
+6,Roadhouse Cafe,"Chaksibari Road, Kathmandu 44600",2377,4.4,27.7143996,85.3103329,Restaurant
+7,Cafe Mitra,"Thamel Marg, Kathmandu 44600",495,4.5,27.7127149,85.3113838,Restaurant
+8,Palu Malta,Kathmandu 44600,60,4.2,27.7033131,85.3129653,Restaurant
+9,Dudh Sagar,"P857+QQ9, Kanti Path, Kathmandu 44600",351,3.6,27.7094089,85.3144749,Restaurant
+10,French Bakery,"Paknajol Marg, Kathmandu 44600",895,4.4,27.7127415,85.3086266,Restaurant
+11,Yala Cafe & Coffee Shop,"Kwabahal, Thamel Marg, Kathmandu 44600",1237,4.8,27.7123197,85.3114448,Restaurant
+12,Paleti Bhanchha Ghar Restaurant and Bar,"J P Marg, Kathmandu 44600",261,4.4,27.71208,85.310173,Restaurant
+13,The Best Kathmandu Kitchen,"Thamel-26,Bhagawatisthan, Kathmandu 44600",481,4.5,27.715688,85.3115404,Restaurant
+14,Nepalaya Rooftop Restaurant,"Inside Hotel Nepalaya, Thamel, Kwabahal-17, Kathmandu 44600",572,4.7,27.7119973,85.3113102,Restaurant
+15,Chulesi Restaurant,"Nagarjun-1, Kathmandu 44600",75,4.5,27.7328584,85.2882606,Restaurant
+16,Healthy Smoothie Bowl & Pizzeria,Kathmandu 44600,144,4.9,27.7156119,85.309199,Restaurant
+17,Basuri Restaurant,"Swoyambhu Marg, Kathmandu 44600",279,4.3,27.7137148,85.2971763,Restaurant
+18,French Creperie,"Chibahal Marg 26, Kathmandu 44600",653,4.6,27.7137832,85.3117303,Restaurant
+19,Taste Valhalla,"Radhakrishna Mandir, Raniban Rd, Kathmandu 44600",94,4.3,27.7304721,85.2871821,Restaurant
+20,Kathmandu Grill Restaurant,"Chaksibari Marg, Kathmandu 44600",1201,4.7,27.7162317,85.3098124,Restaurant
+21,Kathmandu Durbar Square,Kathmandu 44600,34658,4.5,27.7042737,85.307463,Historical Landmark
+22,Nasal Chowk,"P834+MXP, Layaku Marg, Kathmandu 44600",596,4.5,27.7042077,85.3074418,Historical Landmark
+23,Hijakhusi Falcha,"M8XJ+W65, M8XJ+W6HKathmandu 44600",11,5,27.6997644,85.3305946,Historical Landmark
+24,Bhandarkhal,"P844+7RF, Kathmandu 44600",36,4.2,27.7056862,85.3070381,Historical Landmark
+25,Ratna Park,"???? ????? ??, Kathmandu 44600",15984,3.9,27.7060531,85.3148081,Historical Landmark
+26,Hanuman Dhoka,"Hanuman Dhoka Sadak, Kathmandu 44600",1147,4.5,27.704272,85.307417,Historical Landmark
+27,Maitighar Mandala,"M8VC+R5R, Kathmandu 44600",292,4.2,27.6944693,85.3203174,Historical Landmark
+28,Jagannath Temple,"P834+VWC, Hanuman Dhoka Road, Kathmandu 44600",85,4.7,27.7046884,85.3072686,Historical Landmark
+29,Lohan Chowk,"P835+J35, Ganga Path, Kathmandu 44600",5,4.6,27.7040122,85.3077448,Historical Landmark
+30,???? ?????? ??????,"Layaku Marg, Kathmandu 44600",569,4.6,27.704106,85.3059307,Historical Landmark
+31,Nau-Talle Durbar (Basantapur durbar),"P835+F29, ?????????? ?????, Kathmandu 44600",60,4.6,27.7038975,85.307497,Historical Landmark
+32,Patan Darbar Square,Lalitpur 44600,29354,4.6,27.6726981,85.3253211,Historical Landmark
+33,Singha Durbar,"M8XF+6H2, Kathmandu 44600",557,4.3,27.6980136,85.3238935,Historical Landmark
+34,Bang Ganga dhara,"M8WQ+64M, BanaGanga Marga, Kathmandu 44600",1,3,27.6955882,85.3378104,Historical Landmark
+35,Garden of Dreams,"P877+MR2, Tridevi Sadak, Kathmandu 44600",12181,4.2,27.7141261,85.3145041,Historical Landmark
+36,Statue of Nabindraraj Joshi,"P844+CP6, Gangalal Marg, Kathmandu 44600",1,1,27.7060251,85.3067793,Historical Landmark
+37,Swoyambhu Mahachaitya,"P77R+X52, BHAGANPAU 44600",17663,4.6,27.7148996,85.2903957,Historical Landmark
+38,Keshar Mahal,"P877+VRC, Kathmandu 44600",104,4.1,27.7146977,85.3145067,Historical Landmark
+39,Bhandarkhal Jungle,"P85R+VR4, Pashupati Nath Road, Kathmandu 44621",1414,4.2,27.7096468,85.3420728,Historical Landmark
+40,Maitidevi Temple,"Maitidevi Rd, Kathmandu 44600",3591,4.6,27.705875,85.3340061,Historical Landmark
+41,Foodhub by H2O Cafe N Pub - Basantapur,Kathmandu 44600,426,3.9,27.7030373,85.307656,Restaurant
+42,Twenty Forty,"P82Q+GXJ, Main Road, Kathmandu 44600",1425,4.2,27.7013348,85.3398996,Restaurant
+43,Red Chilly Cafe & Restaurant,"Bijulibazar, Bhaktithapa Rd, Kathmandu 44600",11,5,27.692381,85.3294127,Restaurant
+44,Duckyard,"Pc complex, Kathmandu 44600",52,4.9,27.6890225,85.334322,Restaurant
+45,JAR - Just Another Restaurant,"Pipal Bot Marg, Kathmandu 56900",305,4.4,27.6995461,85.3376871,Restaurant
+46,Vilasha Resto & Bar,"P82Q+HVQ, Sinamangal Rd, Kathmandu 44600",26,5,27.7015372,85.3397557,Restaurant
+47,MANTRA Baneshwor,Kathmandu 44600,54,4.2,27.6929055,85.3334247,Restaurant
+48,Carnival Restro & Meetings,Kathmandu 44600,386,4,27.691971,85.3296442,Restaurant
+49,The Grey Lounge Resturant & Bar,"Devkota Sadak, Kathmandu 44600",17,5,27.6967576,85.3378171,Restaurant
+50,Starlight Cafe,"Bhaktithapa Rd, Kathmandu 44600",27,4.6,27.6922808,85.3300599,Restaurant
+51,"The Wings Factory, Mid-Baneshwor","Devkota Sadak, Kathmandu 44600",556,4.3,27.6996574,85.3384498,Restaurant
+52,Riva Grill House,"Shree Panchakumari Marg, Kathmandu 44600",22,4.5,27.6927042,85.3368573,Restaurant
+53,Vertigo BBQ,"M8PP+R5, Kathmandu 44600",387,4.5,27.68712,85.3354764,Restaurant
+54,Hunger Hub Restaurant and Bar,"Bus Lane, Kathmandu 44600",130,4.3,27.6886901,85.3325567,Restaurant
+55,Aromatic Cafe and Eatery,"M8WW+V74, Prayag Marg, Kathmandu 44600",33,5,27.6971411,85.3457139,Restaurant
+56,Drishya Lounge - Best Lounge in New Baneshwor,"Devkota Sadak, Kathmandu 44600",638,4.3,27.6922623,85.3364717,Restaurant
+57,DARJEELING VEG MO:MO:,"M8WP+6F3, Sahabhagita Marga, Kathmandu 44600",26,4.5,27.6955228,85.3361659,Restaurant
+58,Bardali Restro & Residency,"Bijulibazar, Kathmandu 44600",202,3.9,27.6924842,85.3292808,Restaurant
+59,The Bakery Cafe Baneshwor,"M8QM+GQF, Chhakku Bakku Marg, Kathmandu 44600",1298,4.1,27.6888119,85.334427,Restaurant
+60,Mr. Mo:Mo,"M8XQ+FXF, Basuki Marg, Kathmandu 44600",213,4.1,27.6988108,85.3397986,Restaurant
+61,???? ?????? ??????,"Layaku Marg, Kathmandu 44600",569,4.6,27.704106,85.3059307,Temple
+62,Jagannath Temple,"P834+VWC, Hanuman Dhoka Road, Kathmandu 44600",85,4.7,27.7046884,85.3072686,Temple
+63,Mahadevsthan Temple Baneshwor,"M8WR+MHM, Kathmandu 44600",90,4.4,27.6967199,85.3414195,Temple
+64,Pancha Kumari Mandir,"M8VJ+QWC, Kathmandu 44600",59,4.4,27.6944381,85.3322707,Temple
+65,Maitidevi Temple,"Maitidevi Rd, Kathmandu 44600",3591,4.6,27.705875,85.3340061,Temple
+66,Katyayani Temple,"M8WW+364, Katyani Marg, Kathmandu 44600",231,4.4,27.6951375,85.3455687,Temple
+67,?????????? ?????? ??????,"M8RV+QQ3, Prayag Marg, Kathmandu 44600",12,4.6,27.6918851,85.344419,Temple
+68,Hanumansthan Temple,"P825+9H5, Hanumansthan Marg, Kathmandu 44600",6,4.7,27.700882,85.3089732,Temple
+69,Om Kareshwor Mandir,"M8VX+M4H, Kathmandu 44600",21,4.5,27.6941752,85.3478724,Temple
+70,Khariko bot,"Bhiemsengola Marga 460, Kathmandu 44600",91,4.1,27.6903179,85.3426066,Temple
+71,Krishna Temple,"M8V3+563, ?????? ?????, Kathmandu 44614",9,4.8,27.692891,85.3030337,Temple
+72,Koteshwor Mahadevasthan,"Mahadevsthan Marg, Kathmandu 44600",1053,4.5,27.6809461,85.3412287,Temple
+73,Kali Nageshwor Shiva Mandir,"M8WW+V59, Prayag Marg, Kathmandu 44600",15,4.5,27.6971586,85.3454985,Temple
+74,Omkareshwor Mahadev Temple,"M8VW+PWQ Om Kareshwor, Kathmandu 44600",48,4.5,27.6941155,85.347877,Temple
+75,Bhimsengola Mandir,"M8XV+VP4, Sinamangal Rd, Kathmandu 44600",20,4.6,27.6996427,85.3443312,Temple
+76,??????? ????,"P82V+J2X, Surya Bikram Gyawali Marg, Kathmandu 44600",2,5,27.701604,85.3426162,Temple
+77,Swoyambhu Mahachaitya,"P77R+X52, BHAGANPAU 44600",17663,4.6,27.7148996,85.2903957,Temple
+78,Shani Temple,"P82Q+V8R, Baburam Acharya Marg, Kathmandu 44600",5,5,27.7022648,85.3382403,Temple
+79,Ganesh Temple,"SubidhaNagar, Tinkune, New Baneshwor Rd SubidhaNagar, Kathmandu",19,4.3,27.6860647,85.3447157,Temple
+80,Ganesh Mandir,"M8QJ+692, Kathmandu 44600",14,4.1,27.6880181,85.3308855,Temple
+81,Shree Kaal Bhairav Temple,"Hanuman Dhoka Road, Kathmandu 44600",1706,4.7,27.7047758,85.3071243,Temple
+82,Jagannath Temple,"P834+VWC, Hanuman Dhoka Road, Kathmandu 44600",85,4.7,27.7046884,85.3072686,Temple
+83,???? ?????? ??????,"Layaku Marg, Kathmandu 44600",569,4.6,27.704106,85.3059307,Temple
+84,Palah: Dya,"temple, NewRoad, beside, Kathmandu 44600",1030,4.6,27.7020825,85.311965,Temple
+85,Shree Tanadevi Tarani Bhawani Temple,"P845+38P, Makha Galli, Kathmandu 44600",32,4.6,27.7052046,85.3083188,Temple
+86,Seto Machhindra Nath Temple,"P846+M3H, Siddhidas Marg, Kathmandu 44600",1359,4.6,27.7066835,85.3102246,Temple
+87,Kasthamandap,Kathmandu 44600,965,4.6,27.7039105,85.3058891,Temple
+88,Kageshwor Mahadev Temple,"P834+XXP, Hanuman Dhoka Road, Kathmandu 44600",44,4.5,27.7049613,85.3074532,Temple
+89,Degu Talle Temple,"P834+QRV, Indra Chok Road, Kathmandu 44600",6,4.5,27.7044937,85.3070612,Temple
+90,Mahendreshwor Temple,"P844+3W, Kathmandu 44600",18,4.5,27.7053356,85.3076792,Temple
+91,Dhansa Temple,"P834+F9W, ??? ?????? ?????, Kathmandu 44600",8,4.9,27.703741,85.3059599,Temple
+92,Swët Bhairab (Hatha/Hathu Dyo),"P834+QQX, ????? ???, Kathmandu 44600",104,4.6,27.7044823,85.3069879,Temple
+93,Chyasin Dega (Krishna Temple),"Kot Square, Gangalal Marg, Kathmandu 44600",5,4.2,27.7047431,85.3068601,Temple
+94,Akash Bhairab Temple,Kathmandu 44600,597,4.6,27.7060234,85.3094803,Temple
+95,Kathmandu Durbar Square,Kathmandu 44600,34658,4.5,27.7042737,85.307463,Temple
+96,Shiva-Parvati Temple,"Gangalal Marg 22, Kathmandu 44600",5,4.4,27.7043943,85.3065221,Temple
+97,Basantapur Rakkhakali Mondir,"P834+MJJ, Kathmandu 44600",,,27.7042221,85.3065127,Temple
+98,Trailokya Mohan Narayan Temple,"P834+HGF, Layaku Marg, Kathmandu 44600",38,4.4,27.7039301,85.3062934,Temple
+99,Taleju Bhawani Temple,"Layaku Marg, Kathmandu 44600",901,4.6,27.7049154,85.3080467,Temple
+100,Ganesh Temple,"P856+2V4, Sundhara Marg, Kathmandu 44600",62,4.3,27.7075132,85.3122004,Temple
+101,Budhanilkantha Narayan,"P8P5+Q78, Kathmandu 44600",27.736901,127,4.6,85.3082,Temple
+102,Bhadrakali Temple,"M8X8+PP9, ????????? ?????? ???, Kathmandu 44600",27.699277,878,4.5,85.3168549,Temple
+103,Budhanilkantha Temple,"Nepal Vipassana Meditation Center Rd 44600, Budhanilkantha 44600",27.7780545,9434,4.6,85.3623215,Temple
+104,???? ?????? ??????,"Layaku Marg, Kathmandu 44600",27.704106,569,4.6,85.3059307,Temple
+105,Vishnu temple,"M8W5+X48, ???? ?????, Kathmandu 44600",27.6974005,10,4.2,85.3078412,Temple
+106,Kumari Temple,"P8PX+G45, Budhanilkantha 44600",27.7362593,13,4.6,85.3478469,Temple
+107,?????????? ?????? ??????,"Milan Chowk Galli 01, Budhanilkantha 44600",27.7316184,65,4.4,85.3543548,Temple
+108,?????????? ??????,"P9V2+PV3, Unnamed Road,, Budhanilkantha 44600",27.7442501,56,4.5,85.3521675,Temple
+109,Rudreshwor Mahadev Temple,"Q977+QRV, Budhanilkantha 44602",27.7644878,36,4.3,85.3645487,Temple
+110,Ganesh Temple,"P9P4+8G2, Budhanilkantha 44600",27.7357551,28,4.4,85.3562701,Temple
+111,Radha Krishna Mandir,"Ward no 1, Faika Tole, 44600",27.7301057,68,4.4,85.3602216,Temple
+112,"Krishna Mandir,Kapan","P9R7+6G7, Budhanilkantha 44600",27.7405365,47,4.4,85.363796,Temple
+113,Ram Mandir Budhanilkantha,"14, Budhanilkantha School Main Rd, Budhanilkantha 44600",27.7449394,69,4.2,85.3597684,Temple
+114,Jagannath Temple Mahankal (??????? ?????? ????????),"Q932+G57, Budhanilkantha 44600",27.7537804,41,4.5,85.3504334,ous De
+115,RamSita Mandir,"Q87V+347, Budhanilkantha 44610",27.7626595,32,4.4,85.342792,Temple
+116,Bagalamukhi Temple,Budhanilkantha 44600,27.7385687,51,4.4,85.3632604,Temple
+117,Narayan temple,"P8HW+9C8, ????? ???, Budhanilkantha 44600",27.7284053,5,4.4,85.3460746,Temple
+118,Haleshwor Mahadev Temple,Budhanilkantha 44600,27.7432635,9,4.8,85.3551526,Temple
+119,ISKCON Radha Krishna temple,"Q9M4+GF4, Budhanilkantha School Main Rd, Budhanilkantha 44600",27.7836549,1305,4.6,85.3569996,Temple
+120,Durga Mandir Kapan,4,27.7339766,172,4.1,85.3607599,Temple
+121,Haadi Bistro & Cafe: Biryani Restaurant in Kathmandu,"Dafter Marg, Kathmandu 44600",3085,4.7,27.7023979,85.3083635,Restaurant
+122,Dak-Galbi Korean House,"Lyakusa Galli, Kathmandu 44600",163,4.7,27.7032351,85.3080056,Restaurant
+123,Monster Meal,"Dharma Path, Kathmandu 44600",314,4.4,27.7031497,85.3089634,Restaurant
+124,Morrison Cafe,"?????????: ?????, Kathmandu 44600",97,4.3,27.7034184,85.307098,Restaurant
+125,BBQ Buddy Basantapur,"P825+X39, ?????????? ?????, Kathmandu 44600",80,4.6,27.7023277,85.3078233,Restaurant
+126,Roof Restro Inn,"Freak St, Kathmandu 44600",38,4.7,27.7021695,85.3077242,Restaurant
+127,Hot Chilli Restaurant,"Kathmandu Mall, Kanti Path, Kathmandu 44600",155,3.7,27.701687,85.313298,Restaurant
+128,Palu Malta,Kathmandu 44600,60,4.2,27.7033131,85.3129653,Restaurant
+129,"Yatri Cafe - Best Cafe In Basantapur,Kathmandu","Freak St, Kathmandu 44611",99,5,27.7034683,85.306564,Restaurant
+130,"The Classic Bamboo, Basantapur",Kathmandu 44600,117,3.9,27.7037734,85.308669,Restaurant
+131,Foodhub by H2O Cafe N Pub - Basantapur,Kathmandu 44600,426,3.9,27.7030373,85.307656,Restaurant
+132,The Guchha Mo:Mo and Cafe-best momo in basantapur Kathmandu,"Pyaphal, Kathmandu 44600",111,4.6,27.7049467,85.3063274,Restaurant
+133,Upstairs,"P835+637, Kathmandu 44600",63,3.7,27.7030379,85.3076682,Restaurant
+134,Jiri food quality is guaranteed,"Lyakusa Galli, Kathmandu 44600",10,4,27.7032464,85.3079873,Restaurant
+135,Baiga Bistro,"P835+227, ?????????? ?????, Kathmandu 44600",59,4.1,27.7025389,85.307561,Restaurant
+136,Cafe du Basantapur,Kathmandu 44600,18,4,27.7022638,85.3078181,Restaurant
+137,Bhatti Restro,"P834+7X9, Freak St, Kathmandu 44600",11,4.2,27.703159,85.307485,Restaurant
+138,KOTHEYS Ombahal,Kathmandu 44600,402,3.8,27.701611,85.3077295,Restaurant
+139,Royal Heritage,"P844+2H9, Gangalal Marg, Kathmandu 44600",74,4.2,27.7050355,85.3064977,Restaurant
+140,Chatamari Chhen Restro,"P834+67V, Aatkonarayansthan, ????????? ?????, Kathmandu 44600",103,4.2,27.7032588,85.3057005,Restaurant
+141,Sunday's Sun Restaurant & Bar,Kathmandu 44600,72,4.3,27.7017361,85.3110648,Restaurant
+142,KOTHEYS Ombahal,Kathmandu 44600,402,3.8,27.701611,85.3077295,Restaurant
+143,Little Buddha Restaurant,"Narsingh Chowk Marg, Kathmandu 44600",466,4.3,27.7142291,85.3112428,Restaurant
+144,Nepalaya Rooftop Restaurant,"Inside Hotel Nepalaya, Thamel, Kwabahal-17, Kathmandu 44600",572,4.7,27.7119973,85.3113102,Restaurant
+145,"Roadhouse Cafe, Boudha","Stupa, Kathmandu 44600",1638,4.2,27.7209082,85.3620286,Restaurant
+146,Lavie Garden,"Boudha Rd Ramhiti, Kathmandu 44600",2273,4.6,27.7263941,85.3643663,Restaurant
+147,Haadi Bistro & Cafe Bouddha,Kathmandu 44600,945,4.7,27.7205062,85.3606844,Restaurant
+148,Fuchhey Restaurant,"Putalisadak Nepal Share Market Building, Kathmandu 44600",545,3.7,27.7040164,85.3224008,Restaurant
+149,Solu Organic Kitchen,"P995+XJ7, Boudha, Tushal, Kathmandu 44621",32,4.7,27.7199153,85.3590621,Restaurant
+150,"Pasa Deli By Roadhouse, Boudha","Stupa, Kathmandu 44600",64,4.2,27.7208918,85.3619864,Restaurant
+151,Tso-ngon Restaurant,Kathmandu 44600,10,4.5,27.7215556,85.3612754,Restaurant
+152,Garden Kitchen,"P9F7+42Q, Boudha Rd, Kathmandu 44600",463,4.5,27.722833,85.362594,Restaurant
+153,Sichuan Cafe Restaurant,"Boudha Rd, Phulbari, Kathmandu 44600",152,4.6,27.7250647,85.3650031,Restaurant
+154,Lekali Bhoj Thakali-Boudha,"P9G7+MJR, Phulbari 44600",250,4.8,27.7267304,85.3639907,Restaurant
+155,Yala Cafe & Coffee Shop,"Kwabahal, Thamel Marg, Kathmandu 44600",1237,4.8,27.7123197,85.3114448,Restaurant
+156,Pizza Planet Boudha,"Tusal Marg, Kathmandu 44600",70,4.6,27.7200436,85.3584256,Restaurant
+157,Rox Restaurant,"Taragaon, Boudha, Box 9609, Hyatt Regency, Kathmandu 44601",42,4.2,27.7218935,85.3571533,Restaurant
+158,Sky Cafe Boudha,"Fulbaru, Boudha-6, Kathmandu 44600",667,3.8,27.7239513,85.3649199,Restaurant
+159,"Fuchhey Restaurant, Boudha","Boudha Rd, Kathmandu 44600",97,4.2,27.7205419,85.3611974,Restaurant
+160,Loving Heart Vegan Restaurant,"opposite 10X club, Chaksibari Marg, Kathmandu 44600",407,4.5,27.716921,85.3101825,Restaurant
+161,Graveaty Restaurant and Bar,"Chhusya Galli, Kathmandu 44600",325,4.8,85.3131888,27.7123015,Restaurant
+162,Nepalaya Rooftop Restaurant,"Inside Hotel Nepalaya, Thamel, Kwabahal-17, Kathmandu 44600",572,4.7,85.3113102,27.7119973,Restaurant
+163,Falcha Cafe,"P835+42M, ?????????? ?????, Kathmandu 44600",366,3.8,85.307552,27.7028325,Restaurant
+164,Forest & Plate,"Mandala Street, Kathmandu 44600",714,4.6,85.3109602,27.7151457,Restaurant
+165,Mustang Thakali By State III,"Ananda Bhawan, Uttar Dhoka Rd, Kathmandu 44600",425,4.8,85.3175596,27.7181952,Restaurant
+166,Walnut Bistro,"Do-Cha Marga, Kathmandu 44600",2020,4.7,85.3267342,27.7304997,Restaurant
+167,French Creperie,"Chibahal Marg 26, Kathmandu 44600",653,4.6,85.3117303,27.7137832,Restaurant
+168,Yala Cafe & Coffee Shop,"Kwabahal, Thamel Marg, Kathmandu 44600",1237,4.8,85.3114448,27.7123197,Restaurant
+169,Tahina Terrace,"Manakamana Marg, Kathmandu 44600",19,4.9,85.3244698,27.7126824,Restaurant
+170,Bardali Cafe,Budhanilkantha 44600,46,4.3,85.3492354,27.7312183,Restaurant
+171,The Chimney Restaurant,"Hotel Yak & Yeti, Durbar Marg, Kathmandu 44600",310,4.4,85.3200713,27.7113194,Restaurant
+172,Loving Heart Vegan Restaurant,"opposite 10X club, Chaksibari Marg, Kathmandu 44600",407,4.5,85.3101825,27.716921,Restaurant
+173,Thamel Kitchen,"Manakamana Marg, Kathmandu 44600",18,5,85.3239211,27.7130204,Restaurant
+174,Prefav Cafe,"P9H2+54V, Budhanilkantha 44600",28,4.4,85.3502847,27.7279838,Restaurant
+175,Hity Cafe,"Paknajol Marg, Kathmandu 44600",139,4.7,85.3093042,27.7175947,Restaurant
+176,KARNALI ORGANIC THALI By SPIZE,"P886+CFP, ???? ????? ?????, Kathmandu 44600",320,4.5,85.3111855,27.7161145,Restaurant
+177,Farm to Table,Budhanilkantha 44600,34,4.6,85.3530633,27.7739197,Restaurant
+178,Tarewa Sekuwa House,Budhanilkantha 44600,265,4.1,85.3468125,27.7304375,Restaurant
+179,Kathmandu Grill Restaurant,"Chaksibari Marg, Kathmandu 44600",1201,4.7,85.3098124,27.7162317,Restaurant
+180,RUMI's Bistro,"RUMI's Bistro, Golfutar Main Rd, Budhanilkantha 44622",443,4.2,85.3488855,27.7392794,Restaurant
+181,Square Garden Restro and Bar,"Kiran Bhawan Marg, Lalitpur 44600",78,4.7,27.6864307,85.3084356,Restaurant
+182,Kunako Ghar,"M8P9+3QH, Lalitpur 44600",64,4.8,27.6852592,85.3195018,Restaurant
+183,The Workshop Eatery,"Bakhundole, Lalitpur 44600",1220,4.3,27.6831846,85.3114245,Restaurant
+184,The Yard Restro,"M8H4+P32, Lalitpur 44600",530,4.3,27.6792514,85.305154,Restaurant
+185,"Roadhouse Cafe, Pulchowk",Lalitpur 44700,1973,4.3,27.6760813,85.3129951,Restaurant
+186,El Mediterraneo,"M8H6+97Q, Lalitpur 44700",467,4.5,27.6784677,85.3107211,Restaurant
+187,Cafe & Cucina,Lalitpur 44600,137,4.3,27.6783529,85.3131074,Restaurant
+188,Weavers Inn,"Lagankhel-6, Lalitpur 44700",183,4.1,27.6667004,85.3250233,Restaurant
+189,Blueberry Kitchen,"Paknajol Marg, Kathmandu 44600",1000,4.6,27.7126597,85.3089159,Restaurant
+190,Revolution Cafe,"???? ???, Kathmandu 44600",508,4.1,27.7037579,85.3092563,Restaurant
+191,Shree Subham Khaja Ghar And Bhojanalaya,"M8Q6+52W, Lalitpur 44600",13,4.4,27.6879969,85.3100832,Restaurant
+192,Pizza World Kumaripati,"Lagankhel Satdobato Rd, Lalitpur 44600",1451,4.3,27.6713556,85.317945,Restaurant
+193,Patko Kitchen,"Shahid Shukra Raj Sadak Paschim, Lalitpur 44600",256,4.7,27.6741176,85.3245699,Restaurant
+194,Patan Heritage Home & Restaurant,"Mamaru Galli, Lalitpur 44600",131,4.9,27.6736465,85.3244119,Restaurant
+195,"Bhojan Unlimited- The House of Maharaja Thali, Jawalakhel, Lalitpur","Top Floor of Prabhu Bank & Kathmandu Diabetes & Thyroid center, Jawa Bhawan, Lalitpur 44600",1548,4.8,27.6727947,85.3139895,Restaurant
+196,Taza (Syrian Food),"City View Apartment, Bakhondole, Lalitpur",496,4.2,27.6834048,85.3119382,Restaurant
+197,Mantra Thakali Restaurant,Lalitpur 44600,1557,4.2,27.6782927,85.3108718,Restaurant
+198,Cibo Bistro Nepal,"Pulchowk Road Patan, Ward no. 3, 44600",118,4.3,27.6785202,85.3161464,Restaurant
+199,Wok N Roll,"Manbhawan Rd, Lalitpur 44600",154,4.3,27.6707709,85.3160078,Restaurant
+200,"Amigos Garden Restro,Cafe & Bar","United College Galli, Lalitpur 44600",323,4.1,27.670556,85.3191213,Restaurant
+201,Shree Batuk Bhairavnath Temple,"M87F+QPH, Lalitpur 44700",373,4.6,27.6644434,85.3243474,Temple
+202,Palah: Dya,"temple, NewRoad, beside, Kathmandu 44600",1030,4.6,27.7020825,85.311965,Temple
+203,Shree Bagalamukhi Temple,"M8GG+G9V, Lalitpur 44600",1609,4.6,27.6763584,85.3259261,Temple
+204,Krishna Mandir,"M8FF+CXG, Lalitpur 44700",8573,4.7,27.673565,85.3249533,Temple
+205,Agnishaal,"Agnishal Road, Lalitpur 44700",94,4.5,27.6725803,85.3213356,Temple
+206,Balkumari Temple,"M8CP+Q97, Lalitpur 44700",385,4.4,27.6719173,85.3359114,Temple
+207,Shree Mahalaxmisthan Temple,"M869+VMH Mahalaxmi Temple, Lalitpur 44700",132,4.5,27.6627505,85.3190115,Temple
+208,"Surya Binayak Temple, Lagankhel","44700, Lalitpur",3,4,27.6682012,85.3215794,Temple
+209,Pancheshwor Shiva Temple,"M867+C76, Lalitpur 44700",56,4.3,27.6610329,85.3131526,Temple
+210,"Ashok Stupa , South (Lagan:Thur) Lagankhel ???? ????? , ?????? (???:???) ??????","Ashok Stupa, Lalitpur 44700",88,4.4,27.6648909,85.3233144,Temple
+211,Tudikhel,"P827+CXX, Kantipath Rd, Kathmandu 44600",3131,4.1,27.7011097,85.3149801,Temple
+212,Ranibu Ganesh Temple,"Rani bu 14, Lalitpur 44700",80,4.2,27.6583137,85.3128576,Temple
+213,Saraswati Temple,"M8CQ+93F, Lalitpur 44600",10,4.7,27.670948,85.3376862,Temple
+214,Mahabodhi Temple,Lalitpur 44700,312,4.6,27.6689501,85.3271041,Temple
+215,Hiranya Varna Mahavihar,"M8GF+3QG, Kwalakhu Rd, Lalitpur 44700",974,4.7,27.675192,85.324442,Temple
+216,Bhimsen Mandir,"M8FG+G3F, Lalitpur 44600",67,4.6,27.6738055,85.3251816,Temple
+217,Min nath,"M89F+XP9, Lalitpur 44600",69,4.3,27.6699166,85.3243669,Temple
+218,Chyasin Dega,"M8FF+4WG, Lalitpur 44700",42,4.4,27.672804,85.3248416,Temple
+219,Shree Hanuman Mandir,"M88F+6J2, Lalitpur 44700",14,4.7,27.665511,85.3240305,Temple
+220,BhairavNath ???? ??????,"M8CF+W6X, Lalitpur 44600",6,3.8,27.6723574,85.3231099,Temple
+,,,,,,,
